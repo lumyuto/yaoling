@@ -12,6 +12,11 @@ class HomeController extends Controller {
     const query = ctx.query;
     ctx.body = await service.app.getInfo(query.latitude, query.longitude);
   }
+  async yaoling() {
+    const { ctx, service } = this;
+    const query = ctx.query;
+    ctx.body = await service.app.getYaoling(+query.latitude, +query.longitude);
+  }
 }
 
 module.exports = HomeController;

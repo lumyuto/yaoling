@@ -1,0 +1,136 @@
+2019-06-19 22:51:14,103 ERROR 52809 [-/127.0.0.1/-/144ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 52809
+hostname: lumotian-2.local
+
+2019-06-19 22:52:50,888 ERROR 52996 [-/127.0.0.1/-/148ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 52996
+hostname: lumotian-2.local
+
+2019-06-19 22:52:51,941 ERROR 52996 [-/127.0.0.1/-/120ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 52996
+hostname: lumotian-2.local
+
+2019-06-19 22:52:53,454 ERROR 52996 [-/127.0.0.1/-/186ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 52996
+hostname: lumotian-2.local
+
+2019-06-19 22:53:08,337 ERROR 53026 [-/127.0.0.1/-/1154ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:53:09,393 ERROR 53026 [-/127.0.0.1/-/117ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:53:43,539 ERROR 53026 [-/127.0.0.1/-/126ms GET /leitai] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:54:25,644 ERROR 53026 [-/127.0.0.1/-/111ms GET /leitai?latitude=32057380,%20longtitude%20=%20118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:55:46,018 ERROR 53026 [-/127.0.0.1/-/117ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:58:52,675 ERROR 53448 [-/127.0.0.1/-/141ms GET /yaoling?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53448
+hostname: lumotian-2.local
+
+2019-06-19 22:58:54,111 ERROR 53448 [-/127.0.0.1/-/126ms GET /yaoling?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53448
+hostname: lumotian-2.local
+
+2019-06-19 23:00:40,914 ERROR 53448 [-/127.0.0.1/-/114ms GET /yaoling?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53448
+hostname: lumotian-2.local
+
+2019-06-19 23:01:13,189 ERROR 53448 [-/127.0.0.1/-/119ms GET /yaoling?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53448
+hostname: lumotian-2.local
+
+2019-06-19 23:47:34,984 ERROR 57298 [-/127.0.0.1/-/162ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 57298
+hostname: lumotian-2.local
+
+2019-06-19 23:47:36,454 ERROR 57298 [-/127.0.0.1/-/118ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 57298
+hostname: lumotian-2.local
+
+2019-06-19 23:47:37,339 ERROR 57298 [-/127.0.0.1/-/119ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 57298
+hostname: lumotian-2.local
+
+2019-06-19 23:47:38,195 ERROR 57298 [-/127.0.0.1/-/133ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 57298
+hostname: lumotian-2.local
+

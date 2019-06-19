@@ -1,0 +1,1051 @@
+2019-06-19 22:51:14,103 ERROR 52809 [-/127.0.0.1/-/144ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 52809
+hostname: lumotian-2.local
+
+2019-06-19 22:52:50,888 ERROR 52996 [-/127.0.0.1/-/148ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 52996
+hostname: lumotian-2.local
+
+2019-06-19 22:52:51,941 ERROR 52996 [-/127.0.0.1/-/120ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 52996
+hostname: lumotian-2.local
+
+2019-06-19 22:52:53,454 ERROR 52996 [-/127.0.0.1/-/186ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 52996
+hostname: lumotian-2.local
+
+2019-06-19 22:53:08,337 ERROR 53026 [-/127.0.0.1/-/1154ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:53:09,393 ERROR 53026 [-/127.0.0.1/-/117ms GET /config] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:53:43,538 ERROR 53026 [-/127.0.0.1/-/126ms GET /leitai] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:54:25,644 ERROR 53026 [-/127.0.0.1/-/111ms GET /leitai?latitude=32057380,%20longtitude%20=%20118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:55:46,018 ERROR 53026 [-/127.0.0.1/-/117ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53026
+hostname: lumotian-2.local
+
+2019-06-19 22:58:52,675 ERROR 53448 [-/127.0.0.1/-/141ms GET /yaoling?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53448
+hostname: lumotian-2.local
+
+2019-06-19 22:58:54,111 ERROR 53448 [-/127.0.0.1/-/126ms GET /yaoling?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53448
+hostname: lumotian-2.local
+
+2019-06-19 23:00:40,914 ERROR 53448 [-/127.0.0.1/-/114ms GET /yaoling?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53448
+hostname: lumotian-2.local
+
+2019-06-19 23:01:13,189 ERROR 53448 [-/127.0.0.1/-/119ms GET /yaoling?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 53448
+hostname: lumotian-2.local
+
+2019-06-19 23:30:15,133 ERROR 55804 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 1 times on pid:55804)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 55804
+hostname: lumotian-2.local
+
+2019-06-19 23:30:15,144 ERROR 55804 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 2 times on pid:55804)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 55804
+hostname: lumotian-2.local
+
+2019-06-19 23:30:16,248 ERROR 55804 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 3 times on pid:55804)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 55804
+hostname: lumotian-2.local
+
+2019-06-19 23:30:16,253 ERROR 55804 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 4 times on pid:55804)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 55804
+hostname: lumotian-2.local
+
+2019-06-19 23:30:17,361 ERROR 55804 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 5 times on pid:55804)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 55804
+hostname: lumotian-2.local
+
+2019-06-19 23:30:17,379 ERROR 55804 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 6 times on pid:55804)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 55804
+hostname: lumotian-2.local
+
+2019-06-19 23:30:17,384 ERROR 55804 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 7 times on pid:55804)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 55804
+hostname: lumotian-2.local
+
+2019-06-19 23:30:17,387 ERROR 55804 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 8 times on pid:55804)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 55804
+hostname: lumotian-2.local
+
+2019-06-19 23:33:05,153 ERROR 56008 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 1 times on pid:56008)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56008
+hostname: lumotian-2.local
+
+2019-06-19 23:33:06,271 ERROR 56008 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 2 times on pid:56008)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56008
+hostname: lumotian-2.local
+
+2019-06-19 23:33:07,398 ERROR 56008 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 3 times on pid:56008)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56008
+hostname: lumotian-2.local
+
+2019-06-19 23:39:55,164 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 1 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:55,174 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 2 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:55,180 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 3 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:55,181 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 4 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:55,182 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 5 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:55,184 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 6 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:56,296 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 7 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:56,302 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 8 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:57,413 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 9 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:39:57,419 ERROR 56445 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 10 times on pid:56445)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56445
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,787 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 1 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,827 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 2 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,828 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 3 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,830 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 4 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,831 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 5 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,833 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 6 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,833 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 7 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,834 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 8 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:33,835 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 9 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:42:38,331 ERROR 56762 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 10 times on pid:56762)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:124:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56762
+hostname: lumotian-2.local
+
+2019-06-19 23:43:18,632 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 1 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:18,637 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 2 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:18,639 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 3 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:18,641 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 4 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:18,643 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 5 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:18,662 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 6 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:19,752 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 7 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:19,760 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 8 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:19,778 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 9 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:20,885 ERROR 56831 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 10 times on pid:56831)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56831
+hostname: lumotian-2.local
+
+2019-06-19 23:43:37,555 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 1 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:37,560 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 2 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:37,562 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 3 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:37,563 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 4 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:38,656 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 5 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:38,669 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 6 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:38,673 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 7 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:38,679 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 8 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:38,691 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 9 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:43:39,822 ERROR 56877 nodejs.TypeError: n.toFixed is not a function (uncaughtException throw 10 times on pid:56877)
+    at convertLocation (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/util.js:65:47)
+    at initSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:126:28)
+    at Object.onopen (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:32:21)
+    at W3CWebSocket.socket.onopen.event [as onopen] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:61:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onConnect (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:208:10)
+    at WebSocketClient.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:55:19)
+    at WebSocketClient.emit (events.js:189:13)
+    at WebSocketClient.succeedHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:348:10)
+    at WebSocketClient.validateHandshake (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketClient.js:332:10)
+
+pid: 56877
+hostname: lumotian-2.local
+
+2019-06-19 23:44:40,278 ERROR 56993 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 1 times on pid:56993)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 56993
+hostname: lumotian-2.local
+
+2019-06-19 23:44:40,370 ERROR 56993 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 2 times on pid:56993)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 56993
+hostname: lumotian-2.local
+
+2019-06-19 23:44:40,397 ERROR 56993 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 3 times on pid:56993)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 56993
+hostname: lumotian-2.local
+
+2019-06-19 23:44:40,408 ERROR 56993 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 4 times on pid:56993)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 56993
+hostname: lumotian-2.local
+
+2019-06-19 23:45:32,091 ERROR 57077 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 1 times on pid:57077)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 57077
+hostname: lumotian-2.local
+
+2019-06-19 23:45:32,139 ERROR 57077 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 2 times on pid:57077)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 57077
+hostname: lumotian-2.local
+
+2019-06-19 23:45:32,158 ERROR 57077 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 3 times on pid:57077)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 57077
+hostname: lumotian-2.local
+
+2019-06-19 23:46:48,166 ERROR 57197 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 1 times on pid:57197)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 57197
+hostname: lumotian-2.local
+
+2019-06-19 23:46:48,267 ERROR 57197 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 2 times on pid:57197)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 57197
+hostname: lumotian-2.local
+
+2019-06-19 23:46:48,292 ERROR 57197 nodejs.TypeError: Assignment to constant variable. (uncaughtException throw 3 times on pid:57197)
+    at onSocketMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:70:17)
+    at Object.onmessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/service/yaoling.js:40:17)
+    at W3CWebSocket.socket.onmessage.event [as onmessage] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/app/lib/RadarSocket.js:64:17)
+    at W3CWebSocket._dispatchEvent [as dispatchEvent] (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/yaeti/lib/EventTarget.js:107:17)
+    at W3CWebSocket.onMessage (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:246:18)
+    at WebSocketConnection.<anonymous> (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/W3CWebSocket.js:205:19)
+    at WebSocketConnection.emit (events.js:189:13)
+    at WebSocketConnection.processFrame (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:531:26)
+    at /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/websocket/lib/WebSocketConnection.js:323:40
+    at process._tickCallback (internal/process/next_tick.js:61:11)
+
+pid: 57197
+hostname: lumotian-2.local
+
+2019-06-19 23:47:34,984 ERROR 57298 [-/127.0.0.1/-/162ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 57298
+hostname: lumotian-2.local
+
+2019-06-19 23:47:36,454 ERROR 57298 [-/127.0.0.1/-/118ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 57298
+hostname: lumotian-2.local
+
+2019-06-19 23:47:37,339 ERROR 57298 [-/127.0.0.1/-/119ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 57298
+hostname: lumotian-2.local
+
+2019-06-19 23:47:38,195 ERROR 57298 [-/127.0.0.1/-/133ms GET /leitai?latitude=32057380&longtitude=118796470] nodejs.Error: non-error thrown: [object Object]
+    at Object.app.context.onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa-onerror/index.js:39:24)
+    at onerror (/Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/koa/lib/application.js:148:32)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 57298
+hostname: lumotian-2.local
+

@@ -1,0 +1,159 @@
+2019-06-19 22:51:05,127 INFO 52805 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 20334877ms at 2019-06-20 04:30:00.004
+2019-06-19 22:51:05,128 INFO 52805 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 4134872ms at 2019-06-20 00:00:00.000
+2019-06-19 22:51:05,128 INFO 52805 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 4135872ms at 2019-06-20 00:00:01.000
+2019-06-19 22:51:04,823 INFO 52809 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:51:04,823 INFO 52809 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:51:04,823 INFO 52809 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:52:23,806 INFO 52937 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:52:23,806 INFO 52937 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:52:23,806 INFO 52937 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:52:49,350 INFO 52996 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:52:49,350 INFO 52996 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:52:49,350 INFO 52996 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:53:06,713 INFO 53026 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:53:06,713 INFO 53026 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:53:06,713 INFO 53026 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:57:19,167 INFO 53257 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:57:19,167 INFO 53257 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:57:19,167 INFO 53257 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:57:32,400 INFO 53286 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:57:32,401 INFO 53286 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:57:32,401 INFO 53286 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:57:46,515 INFO 53318 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:57:46,515 INFO 53318 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:57:46,515 INFO 53318 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:57:48,874 INFO 53329 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:57:48,874 INFO 53329 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:57:48,874 INFO 53329 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:58:37,601 INFO 53390 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:58:37,601 INFO 53390 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:58:37,601 INFO 53390 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 22:58:49,616 INFO 53448 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 22:58:49,616 INFO 53448 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 22:58:49,616 INFO 53448 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:01:44,279 INFO 53617 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:01:44,279 INFO 53617 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:01:44,279 INFO 53617 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:03:22,704 INFO 53707 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:03:22,704 INFO 53707 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:03:22,704 INFO 53707 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:12:27,042 INFO 54310 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:12:27,042 INFO 54310 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:12:27,042 INFO 54310 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:13:34,983 INFO 54400 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:13:34,983 INFO 54400 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:13:34,983 INFO 54400 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:13:35,296 INFO 54398 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 18984707ms at 2019-06-20 04:30:00.003
+2019-06-19 23:13:35,296 INFO 54398 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 2784704ms at 2019-06-20 00:00:00.000
+2019-06-19 23:13:35,297 INFO 54398 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 2785704ms at 2019-06-20 00:00:01.001
+2019-06-19 23:15:35,922 INFO 54655 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:15:35,922 INFO 54655 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:15:35,922 INFO 54655 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:15:36,200 INFO 54653 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 18863805ms at 2019-06-20 04:30:00.005
+2019-06-19 23:15:36,201 INFO 54653 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 2663799ms at 2019-06-20 00:00:00.000
+2019-06-19 23:15:36,201 INFO 54653 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 2664799ms at 2019-06-20 00:00:01.000
+2019-06-19 23:17:31,190 INFO 54809 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:17:31,190 INFO 54809 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:17:31,190 INFO 54809 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:18:34,700 INFO 54909 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 18685303ms at 2019-06-20 04:30:00.003
+2019-06-19 23:18:34,701 INFO 54909 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 2485300ms at 2019-06-20 00:00:00.001
+2019-06-19 23:18:34,701 INFO 54909 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 2486299ms at 2019-06-20 00:00:01.000
+2019-06-19 23:18:34,452 INFO 54911 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:18:34,452 INFO 54911 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:18:34,452 INFO 54911 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:19:28,068 INFO 54974 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:19:28,068 INFO 54974 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:19:28,068 INFO 54974 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:21:44,328 INFO 55187 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:21:44,328 INFO 55187 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:21:44,328 INFO 55187 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:24:34,169 INFO 55354 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:24:34,169 INFO 55354 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:24:34,169 INFO 55354 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:24:34,474 INFO 55353 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 18325530ms at 2019-06-20 04:30:00.004
+2019-06-19 23:24:34,475 INFO 55353 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 2125525ms at 2019-06-20 00:00:00.000
+2019-06-19 23:24:34,475 INFO 55353 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 2126525ms at 2019-06-20 00:00:01.000
+2019-06-19 23:27:42,801 INFO 55549 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:27:42,801 INFO 55549 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:27:42,801 INFO 55549 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:27:43,080 INFO 55547 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 18136923ms at 2019-06-20 04:30:00.003
+2019-06-19 23:27:43,081 INFO 55547 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1936919ms at 2019-06-20 00:00:00.000
+2019-06-19 23:27:43,081 INFO 55547 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1937919ms at 2019-06-20 00:00:01.000
+2019-06-19 23:28:23,024 INFO 55616 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 18096981ms at 2019-06-20 04:30:00.005
+2019-06-19 23:28:23,025 INFO 55616 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1896975ms at 2019-06-20 00:00:00.000
+2019-06-19 23:28:23,025 INFO 55616 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1897975ms at 2019-06-20 00:00:01.000
+2019-06-19 23:28:22,786 INFO 55618 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:28:22,786 INFO 55618 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:28:22,786 INFO 55618 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:29:41,945 INFO 55724 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:29:41,945 INFO 55724 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:29:41,945 INFO 55724 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:29:48,952 INFO 55744 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:29:48,952 INFO 55744 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:29:48,952 INFO 55744 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:29:53,720 INFO 55756 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:29:53,720 INFO 55756 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:29:53,720 INFO 55756 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:29:57,289 INFO 55762 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:29:57,289 INFO 55762 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:29:57,289 INFO 55762 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:30:13,429 INFO 55804 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:30:13,429 INFO 55804 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:30:13,429 INFO 55804 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:30:13,700 INFO 55802 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17986304ms at 2019-06-20 04:30:00.004
+2019-06-19 23:30:13,700 INFO 55802 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1786300ms at 2019-06-20 00:00:00.000
+2019-06-19 23:30:13,700 INFO 55802 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1787300ms at 2019-06-20 00:00:01.000
+2019-06-19 23:33:04,569 INFO 56006 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17815435ms at 2019-06-20 04:30:00.004
+2019-06-19 23:33:04,569 INFO 56006 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1615431ms at 2019-06-20 00:00:00.000
+2019-06-19 23:33:04,570 INFO 56006 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1616431ms at 2019-06-20 00:00:01.001
+2019-06-19 23:33:04,286 INFO 56008 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:33:04,286 INFO 56008 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:33:04,286 INFO 56008 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:39:52,099 INFO 56443 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17407905ms at 2019-06-20 04:30:00.004
+2019-06-19 23:39:52,099 INFO 56443 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1207901ms at 2019-06-20 00:00:00.000
+2019-06-19 23:39:52,099 INFO 56443 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1208901ms at 2019-06-20 00:00:01.000
+2019-06-19 23:39:51,823 INFO 56445 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:39:51,823 INFO 56445 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:39:51,823 INFO 56445 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:42:30,459 INFO 56760 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17249545ms at 2019-06-20 04:30:00.004
+2019-06-19 23:42:30,459 INFO 56760 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1049541ms at 2019-06-20 00:00:00.000
+2019-06-19 23:42:30,460 INFO 56760 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1050541ms at 2019-06-20 00:00:01.001
+2019-06-19 23:42:30,150 INFO 56762 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:42:30,151 INFO 56762 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:42:30,151 INFO 56762 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:43:17,173 INFO 56829 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17202832ms at 2019-06-20 04:30:00.005
+2019-06-19 23:43:17,173 INFO 56829 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 1002827ms at 2019-06-20 00:00:00.000
+2019-06-19 23:43:17,174 INFO 56829 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 1003827ms at 2019-06-20 00:00:01.001
+2019-06-19 23:43:16,986 INFO 56831 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:43:16,986 INFO 56831 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:43:16,986 INFO 56831 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:43:36,947 INFO 56874 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17183056ms at 2019-06-20 04:30:00.003
+2019-06-19 23:43:36,948 INFO 56874 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 983052ms at 2019-06-20 00:00:00.000
+2019-06-19 23:43:36,948 INFO 56874 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 984052ms at 2019-06-20 00:00:01.000
+2019-06-19 23:43:36,788 INFO 56877 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:43:36,788 INFO 56877 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:43:36,788 INFO 56877 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:44:39,425 INFO 56991 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17120578ms at 2019-06-20 04:30:00.003
+2019-06-19 23:44:39,426 INFO 56991 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 920574ms at 2019-06-20 00:00:00.000
+2019-06-19 23:44:39,426 INFO 56991 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 921574ms at 2019-06-20 00:00:01.000
+2019-06-19 23:44:39,099 INFO 56993 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:44:39,099 INFO 56993 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:44:39,099 INFO 56993 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:45:23,505 INFO 57075 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17076499ms at 2019-06-20 04:30:00.004
+2019-06-19 23:45:23,505 INFO 57075 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 876495ms at 2019-06-20 00:00:00.000
+2019-06-19 23:45:23,505 INFO 57075 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 877495ms at 2019-06-20 00:00:01.000
+2019-06-19 23:45:23,332 INFO 57077 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:45:23,332 INFO 57077 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:45:23,332 INFO 57077 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:46:34,565 INFO 57195 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 17005439ms at 2019-06-20 04:30:00.004
+2019-06-19 23:46:34,565 INFO 57195 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 805435ms at 2019-06-20 00:00:00.000
+2019-06-19 23:46:34,565 INFO 57195 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 806435ms at 2019-06-20 00:00:01.000
+2019-06-19 23:46:34,239 INFO 57197 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:46:34,239 INFO 57197 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:46:34,239 INFO 57197 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-06-19 23:47:34,331 INFO 57296 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 16945672ms at 2019-06-20 04:30:00.003
+2019-06-19 23:47:34,331 INFO 57296 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 745669ms at 2019-06-20 00:00:00.000
+2019-06-19 23:47:34,332 INFO 57296 [Timer] /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 746669ms at 2019-06-20 00:00:01.001
+2019-06-19 23:47:34,033 INFO 57298 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-06-19 23:47:34,033 INFO 57298 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-06-19 23:47:34,033 INFO 57298 [egg-schedule]: register schedule /Users/lumotian/Code/zhuoyao_radar/leitai/server/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

@@ -9,10 +9,12 @@ const url =
 const defaultdata = {
   request_type: '1002',
   latitude: 32058380,
-  longtitude: 118796470,
+  longitude: 118796470,
   requestid: 282682,
   platform: 0,
 };
+const {initSockets} = require('./yaoling')
+
 class LeitaiService extends Service {
   // 默认不需要提供构造函数。
   constructor(ctx) {
@@ -54,7 +56,7 @@ class LeitaiService extends Service {
     });
     return config;
   }
-  async getInfo(latitude = 32057380, longtitude = 118796470) {
+  async getInfo(latitude = 32057380, longitude = 118796470) {
     // 假如 我们拿到用户 id 从数据库获取用户详细信息
     const leitai = await new Promise((res, rej) => {
       const ws = new WebSocketClient(url);
@@ -63,7 +65,7 @@ class LeitaiService extends Service {
           formateData({
             request_type: '1002',
             latitude,
-            longtitude,
+            longtitude: longitude,
             requestid: genRequestId('1002'),
             platform: 0,
           })
@@ -88,6 +90,46 @@ class LeitaiService extends Service {
       };
     });
     return leitai;
+  }
+  async getYaoling(latitude = 32057380, longitude = 118796470) {
+    return await new Promise((res, rej) => {
+      initSockets({
+        latitude,
+        longitude: longitude
+      }, res)
+    })
+  //   const leitai = await new Promise((res, rej) => {
+  //     const ws = new WebSocketClient(url);
+  //     ws.onopen = function() {
+  //       ws.send(
+  //         formateData({
+  //           request_type: '1001',
+  //           latitude,
+  //           longitude,
+  //           requestid: genRequestId('1001'),
+  //           platform: 0,
+  //         })
+  //       );
+  //     };
+  //     // 接收到服务端响应的数据时，触发事件
+  //     ws.onmessage = evt => {
+  //       const { data } = evt;
+  //       if (typeof data === 'object') {
+  //         ws.close();
+  //         res(handleData(data));
+  //       } else if (typeof data !== 'string') {
+  //         ws.close();
+  //         res([]);
+  //       }
+  //     };
+  //     ws.onerror = err => {
+  //       rej(err);
+  //     };
+  //     ws.onclose = () => {
+  //       console.log('关闭');
+  //     };
+  //   });
+  //   return leitai;
   }
 }
 module.exports = LeitaiService;
